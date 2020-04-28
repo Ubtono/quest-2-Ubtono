@@ -1,0 +1,9 @@
+﻿  ACCOUNT.cpp
+  DATABASE.cpp
+  INTERACTIONS.cpp
+C:\Users\Destructicator\source\repos\quest2\DATABASE.cpp(4,21): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+C:\Users\Destructicator\source\repos\quest2\INTERACTIONS.cpp(21,8): warning C4101: 'input': unreferenced local variable
+C:\Users\Destructicator\source\repos\quest2\INTERACTIONS.cpp(35): warning C4715: 'Interactions::logIn': not all control paths return a value
+  quest2.vcxproj -> C:\Users\Destructicator\source\repos\quest2\Debug\quest2.exe
